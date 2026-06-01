@@ -1,4 +1,4 @@
-# Payment Gateway : Payment Gateway
+# Payment Gateway : System Design
 
 An enterprise-grade, high-throughput, low-latency, globally distributed Payment Gateway processing 10,000+ Transactions Per Second (TPS) across 100+ currencies with 99.999% operational availability and strict PCI-DSS Level 1 compliance.
 
