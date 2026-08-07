@@ -4589,23 +4589,6 @@ Large payloads increase:
 - CPU usage
 - Serialization overhead
 
----
-
-### Example
-
-```mermaid
-flowchart LR
-
-Large Payload
-
--->
-
-Slow Network
-
--->
-
-Higher Latency
-```
 
 ---
 
