@@ -1,4 +1,5 @@
 # System Design --- Core Concepts You Must Understand
+PDF: https://drive.google.com/file/d/1x-i5K_EUo9-yyGEMCCGom8kTyIELMA3t/view?usp=sharing
 
 A practical, step-by-step guide to the seven system design concepts that
 form the foundation of scalable distributed systems.
