@@ -3,6 +3,8 @@
 A practical guide to scaling a database from a simple single-node setup
 to a distributed, highly available architecture.
 
+PDF : https://drive.google.com/file/d/1dgotFpZXCybRbFkT4YVj-Nhak_ihXKBS/view?usp=sharing
+
 The key principle:
 
 > **Do not jump to sharding first. Fix the bottleneck at the simplest
