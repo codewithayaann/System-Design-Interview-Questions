@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://topmate.io/codewithayaan/new/wMSkSWH5su">
-    <img src="https://github.com/user-attachments/assets/e1a01a7a-5bfe-45ed-8a6f-0842495cd1a1" alt="thumbnail" width="100%" />
+    <img src="https://github.com/user-attachments/assets/cfde0f0-b6bf-4581-9258-6e947d86fa5d" alt="thumbnail" width="100%" />
   </a>
 </p>
 
