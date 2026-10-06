@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://topmate.io/codewithayaan/new/wMSkSWH5su">
-    <img src="https://github.com/user-attachments/assets/87cc74fe-5cec-44d1-8684-57e261bbc508" alt="thumbnail" width="100%" />
+    <img src="https://github.com/user-attachments/assets/e1a01a7a-5bfe-45ed-8a6f-0842495cd1a1" alt="thumbnail" width="100%" />
   </a>
 </p>
+
 
 # How to Implement Rate Limiting
 
