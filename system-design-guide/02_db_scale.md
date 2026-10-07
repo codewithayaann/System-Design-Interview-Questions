@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://topmate.io/codewithayaan/new/wMSkSWH5su">
+    <img src="https://github.com/user-attachments/assets/2f2744d7-3852-4072-b95d-db813b373ea0" alt="thumbnail" width="100%" />
+  </a>
+</p>
+
+
+
 # Database Scaling --- Step-by-Step Deep Dive
 
 A practical guide to scaling a database from a simple single-node setup
